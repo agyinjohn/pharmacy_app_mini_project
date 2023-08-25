@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817558497715",
+    "project_id": "parmacy-app",
+    "storage_bucket": "parmacy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817558497715:android:1a90d9dc5a8502f35503c6",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy_health_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817558497715-52ppp62r58oj0ji8nsv3mfk33u2cgpcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtLf-jIuBG7b16xN-OvzaAtgnkGWi_-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817558497715-52ppp62r58oj0ji8nsv3mfk33u2cgpcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
