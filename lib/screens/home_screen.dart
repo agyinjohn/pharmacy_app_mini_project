@@ -49,7 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     Text(
-                      "Hello ${user.name}",
+                      "Hello, ${user.name}",
                       style: const TextStyle(
                         fontSize: 18,
                         fontWeight: FontWeight.w500,
